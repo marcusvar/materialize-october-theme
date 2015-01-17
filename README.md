@@ -1,2 +1,2 @@
-# materialize-october-theme
+# Materialize October
 An OctoberCMS theme created with MaterializeCSS
